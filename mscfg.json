@@ -3,7 +3,7 @@
 "apkSz2D":95,
 "apkSz3D":100,
 "apkSzOD":100,
-"apkSzYue":60,
+"apkSzYue":30,
 "edT":49,
 "filterIds":"none",
 "icDs":"750000,950000,1000000,1000000",
@@ -13,5 +13,5 @@
 "missionStatus":1,
 "msYue":true,
 "nsNews":true,
-"stT":745
+"stT":729
 }
